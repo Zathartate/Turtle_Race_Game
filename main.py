@@ -9,7 +9,7 @@ from race_utility import f_createTurtle
 from race_utility import f_startRace
 
 
-# Three Steps: Add your lines of code here
+# Three Steps: Add your lines of code hereter
 # -    -    -    -    -    -    -    -    -    -    -
 
 # Step 1: draw the markers as lines
